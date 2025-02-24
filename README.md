@@ -48,7 +48,8 @@ The `TicketPainter` class:
 - Uses **CustomPainter** to draw a ticket-like shape.
 - Creates **rounded corners** for a smooth design.
 - Adds **cutout sections** on both sides to resemble a real ticket.
-- Draws a **dotted separator line** to mimic a tearable ticket.
+- Draws a **dotted separator line** ![Screenshot 2025-02-24 125357](https://github.com/user-attachments/assets/60430999-2585-4ac9-b269-05ce15b79f40)
+to mimic a tearable ticket.
 
 ## 🔧 Dependencies
 No external dependencies are required—just **Flutter's `CustomPainter` API`**.
